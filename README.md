@@ -5,7 +5,7 @@ Filter by Alcoholic or Non-Alcoholic.
 Live site [here]().
 
 ## Demo
-![Image of Site](demo.png)
+![Demo Video](demo.mov)
 
 ## Built With
 * HTML
