@@ -5,7 +5,9 @@ Filter by Alcoholic or Non-Alcoholic.
 Live site [here]().
 
 ## Demo
-![Demo Video](demo.mov)
+<video width="320" height="240" controls>
+  <source src="demo.mov" type="video/mp4">
+</video>
 
 ## Built With
 * HTML
