@@ -2,7 +2,7 @@
 Drink recipe flip cards.
 Hover over card to flip and view recipe.
 Filter by Alcoholic or Non-Alcoholic.
-Live site [here]().
+Live site [here](https://carolinesekel.github.io/to-drink-or-not-to-drink/).
 
 ## Preview
 ![Demo Image](demo.png)
