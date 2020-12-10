@@ -4,7 +4,7 @@ Hover over card to flip and view recipe.
 Filter by Alcoholic or Non-Alcoholic.
 Live site [here]().
 
-## Demo
+## Preview
 ![Demo Image](demo.png)
 
 ## Built With
